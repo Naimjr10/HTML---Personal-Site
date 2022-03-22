@@ -1,0 +1,25 @@
+body {
+  background-color: #E2DEA9;
+}
+hr {
+  border-style: groove;
+  border-color: grey;
+}
+h1 {
+  color: green;
+}
+h3 {
+  color: green;
+}
+a:link {
+  color: purple;
+}
+a:visited {
+  color: red;
+}
+a:hover {
+  color: white;
+}
+#back {
+  color: white;
+}
