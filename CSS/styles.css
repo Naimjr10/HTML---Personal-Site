@@ -11,15 +11,10 @@ h1 {
 h3 {
   color: green;
 }
-a:link {
-  color: purple;
-}
-a:visited {
-  color: red;
-}
 a:hover {
-  color: white;
+  color: gray;
 }
-#back {
-  color: white;
+a {
+  color: black;
+  text-decoration: none;
 }
