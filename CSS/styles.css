@@ -14,3 +14,6 @@ h3 {
 a:hover {
   color: gray;
 }
+a {
+  margin-right: 20px;
+}
